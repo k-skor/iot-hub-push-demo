@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796995193854",
+    "project_id": "iot-hub-fcm-demo",
+    "storage_bucket": "iot-hub-fcm-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796995193854:android:f41def719cde726f5bceaf",
+        "android_client_info": {
+          "package_name": "com.capgemini.iothubfcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796995193854-1jip48h2cuu4dgn81scm3hluj8jvksag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJNJnryeA3a_FbH-2f3mWkOlJSf8GUoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796995193854-1jip48h2cuu4dgn81scm3hluj8jvksag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

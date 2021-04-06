@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "iothub-demo-backend"
+		},
+		{
+			"path": "iothub-demo-client-app"
+		},
+		{
+			"path": "sdk"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iothub_device_client_ll.h": "c"
+		}
+	}
+}
